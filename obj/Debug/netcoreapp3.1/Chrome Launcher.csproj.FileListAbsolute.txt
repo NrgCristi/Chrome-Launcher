@@ -1,0 +1,20 @@
+C:\Users\User\source\repos\Chrome Launcher\obj\Debug\netcoreapp3.1\Chrome Launcher.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Chrome Launcher\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\User\source\repos\Chrome Launcher\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\User\source\repos\Chrome Launcher\obj\Debug\netcoreapp3.1\Chrome Launcher_MarkupCompile.cache
+C:\Users\User\source\repos\Chrome Launcher\obj\Debug\netcoreapp3.1\Chrome Launcher_MarkupCompile.lref
+C:\Users\User\source\repos\Chrome Launcher\bin\Debug\netcoreapp3.1\Chrome Launcher.exe
+C:\Users\User\source\repos\Chrome Launcher\bin\Debug\netcoreapp3.1\Chrome Launcher.deps.json
+C:\Users\User\source\repos\Chrome Launcher\bin\Debug\netcoreapp3.1\Chrome Launcher.runtimeconfig.json
+C:\Users\User\source\repos\Chrome Launcher\bin\Debug\netcoreapp3.1\Chrome Launcher.runtimeconfig.dev.json
+C:\Users\User\source\repos\Chrome Launcher\bin\Debug\netcoreapp3.1\Chrome Launcher.dll
+C:\Users\User\source\repos\Chrome Launcher\bin\Debug\netcoreapp3.1\Chrome Launcher.pdb
+C:\Users\User\source\repos\Chrome Launcher\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\User\source\repos\Chrome Launcher\obj\Debug\netcoreapp3.1\Chrome Launcher.g.resources
+C:\Users\User\source\repos\Chrome Launcher\obj\Debug\netcoreapp3.1\Chrome Launcher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Chrome Launcher\obj\Debug\netcoreapp3.1\Chrome Launcher.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Chrome Launcher\obj\Debug\netcoreapp3.1\Chrome Launcher.AssemblyInfo.cs
+C:\Users\User\source\repos\Chrome Launcher\obj\Debug\netcoreapp3.1\Chrome Launcher.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Chrome Launcher\obj\Debug\netcoreapp3.1\Chrome Launcher.dll
+C:\Users\User\source\repos\Chrome Launcher\obj\Debug\netcoreapp3.1\Chrome Launcher.pdb
+C:\Users\User\source\repos\Chrome Launcher\obj\Debug\netcoreapp3.1\Chrome Launcher.genruntimeconfig.cache
